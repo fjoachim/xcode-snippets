@@ -10,8 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>&lt;#view#&gt;.layer.borderColor = [UIColor redColor].CGColor;
-&lt;#view#&gt;.layer.borderWidth = 1.0f;
-</string>
+&lt;#view#&gt;.layer.borderWidth = 1.0f;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>453BE4E0-E114-43A2-AF6D-88A6F15FC3B6</string>
 	<key>IDECodeSnippetLanguage</key>
