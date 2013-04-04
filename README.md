@@ -9,9 +9,9 @@ Copyright 2010-2013 Joachim Fornallaz. All rights reserved.
 Introduction
 ------------
 
-Various Xcode code snippets designed for maximum efficiency when programming in Objective-C.
+Various Objective-C code snippets designed for maximum efficiency when programming with Xcode.
 
 Installation
 ------------
 
-Clone the repository to ~/Library/Developer/Xcode/UserData/CodeSnippets and restart Xcode.
+Clone the repository to `~/Library/Developer/Xcode/UserData/CodeSnippets` and restart Xcode.
