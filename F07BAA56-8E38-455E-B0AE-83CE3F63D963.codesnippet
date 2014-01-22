@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>logu</string>
+	<string>logm</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"&lt;#uint#&gt;: %u", &lt;#uint#&gt;);</string>
+	<string>NSLog(@"%s", __PRETTY_FUNCTION__);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D4668863-E859-468F-9417-C83D7D24A8B8</string>
+	<string>F07BAA56-8E38-455E-B0AE-83CE3F63D963</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Log NSUInteger</string>
+	<string>Log Method</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
