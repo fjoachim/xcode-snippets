@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#subview#&gt;.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
+	<string>&lt;#subview#&gt;.autoresizingMask = &lt;#UI#&gt;ViewAutoresizingFlexibleWidth | &lt;#UI#&gt;ViewAutoresizingFlexibleHeight;
 &lt;#subview#&gt;.frame = self.view.bounds;
 [self.view addSubview:&lt;#subview#&gt;];</string>
 	<key>IDECodeSnippetIdentifier</key>

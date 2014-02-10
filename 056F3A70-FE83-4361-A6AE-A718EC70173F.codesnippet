@@ -9,13 +9,13 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"&lt;#rect#&gt;: %@", NSStringFromCGRect(&lt;#rect#&gt;));</string>
+	<string>NSLog(@"&lt;#rect#&gt;: %@", NSStringFrom&lt;#CG#&gt;Rect(&lt;#rect#&gt;));</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>056F3A70-FE83-4361-A6AE-A718EC70173F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Log CGRect</string>
+	<string>Log Rect</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

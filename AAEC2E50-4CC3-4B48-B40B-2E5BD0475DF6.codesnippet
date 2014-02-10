@@ -9,13 +9,13 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"&lt;#point#&gt;: %@", NSStringFromCGPoint(&lt;#point#&gt;));</string>
+	<string>NSLog(@"&lt;#point#&gt;: %@", NSStringFrom&lt;#CG#&gt;Point(&lt;#point#&gt;));</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AAEC2E50-4CC3-4B48-B40B-2E5BD0475DF6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Log CGPoint</string>
+	<string>Log Point</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

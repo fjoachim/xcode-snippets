@@ -9,13 +9,13 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"&lt;#size#&gt;: %@", NSStringFromCGSize(&lt;#size#&gt;));</string>
+	<string>NSLog(@"&lt;#size#&gt;: %@", NSStringFrom&lt;#CG#&gt;Size(&lt;#size#&gt;));</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F2694D13-5B2F-416C-9512-B072978CECDE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Log CGSize</string>
+	<string>Log Size</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
