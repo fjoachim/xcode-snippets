@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#if TARGET_OS_IPHONE	&lt;# iOS Code Only #&gt;#endif</string>
+	<string>#if TARGET_OS_IOS	&lt;# iOS Code Only #&gt;#endif // TARGET_OS_IOS</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E3A24185-703B-4623-A498-EBF4B1F1343A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -2,18 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pcdpop</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[NSException raise:NSGenericException format:@"%s NOT IMPLEMENTED", __PRETTY_FUNCTION__];</string>
+	<string>#pragma clang diagnostic pop
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>77CBEFE1-20FA-495A-9017-B57BF13DA279</string>
+	<string>97ED3915-83F1-43DA-9C57-C9C5BD6C13EB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>Clang Diagnostic Pop</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
