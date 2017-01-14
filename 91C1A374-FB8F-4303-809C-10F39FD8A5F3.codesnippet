@@ -3,19 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>isPad</string>
+	<string>meas</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>([UIDevice currentDevice].userInterfaceIdiom == UIUserInterfaceIdiomPad)</string>
+	<string>CFAbsoluteTime t1 = CFAbsoluteTimeGetCurrent();
+
+NSLog(@"&lt;#action#&gt; took %.3f seconds", (CFAbsoluteTimeGetCurrent() - t1));
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>47819C96-C443-46E1-BF18-801298B2D0B8</string>
+	<string>91C1A374-FB8F-4303-809C-10F39FD8A5F3</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Is the current device an iPad?</string>
+	<string>Measure Time</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
