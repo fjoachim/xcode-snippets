@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>waitblock</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>dispatch_block_t waitBlock = dispatch_block_create(DISPATCH_BLOCK_INHERIT_QOS_CLASS, ^{&lt;#block#&gt;});
+&lt;#async work calling waitBlock on completion#&gt;
+dispatch_block_wait(waitBlock, DISPATCH_TIME_FOREVER);
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F0D5BDC2-A3E3-4140-84AB-C2C5E5891FAB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>GCD Wait Block</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
